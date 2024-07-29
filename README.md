@@ -12,6 +12,6 @@ Includes
 
 ## Demo
 
-stevenshi.vercel.app/
+[stevenshi.vercel.app/](https://stevenshi.vercel.app/)
 
 https://youtu.be/PCwBVk5X1n0
